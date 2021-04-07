@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samuelmusser
 - 👀 I’m interested in Star Wars, Movies, Reading, learning new skills, and hanging out with people I love.
-- 🌱 I’m currently learning algorithm analysis and cryptography.
+- 🌱 I’m currently learning Algorithm Analysis and Cryptography.
 - 💞️ I’m looking to collaborate on fun and innovative software that brings joy to others!
 - 📫 My professional email is sam.musser95@gmail.com
 
