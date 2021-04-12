@@ -5,7 +5,7 @@
 - 📫 My professional email is sam.musser95@gmail.com
 
 Relevant Projects 🏗️:
-- Star Fight (80s Arcade Game w/ UI on screen, Microcontroller, piezzo, & custom controller.) [Software(C)/Hardware]
+- Star Fight (80s Arcade Game w/ UI on nokia screen, Microcontroller, piezzo, & custom controller.) [Software(C)/Hardware]
 - Safety Light (Senior team project, my role as software engineer networking intelligent road lights (embedded along roadlines) to road signs) [Software (C)]
 - Three in a Row (Electronics Lab for Electronic and Computer Engineers independent design w/ 555timers and mosfet logic to implement tic tac toe(all analog)) [Hardware]
 - Ski-ball Simulator (Software statistics calculator w/ ski-ball gameplay written in matlab for Prob/Stats of Random and Stochastic Processes class) [Software (Matlab)]  
