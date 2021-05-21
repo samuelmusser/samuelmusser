@@ -31,6 +31,7 @@ Relevant Courses 🎒:
 - Electronics Lab for Electrical/Computer Engineers
 - Java I & II
 - Laboratory (Special Projects)
+- Linear Algebra
 - Microprocessor System Design
 - Operating Systems
 - Signals and Systems
