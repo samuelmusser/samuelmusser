@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @samuelmusser
 - 👀 I’m interested in Star Wars, Movies, Reading, learning new skills, and hanging out with people I love.
-- 🌱 I’m currently learning Algorithm Analysis and Cryptography.
+- 🌱 I’m currently learning more about Embedded Software and the modern integration of UML in project cycles.
 - 💞️ I’m looking to collaborate on fun and innovative software that brings joy to others!
 - 📫 My professional email is sam.musser95@gmail.com
 
-Relevant Projects 🏗️:
+Relevant Academic Projects 🏗️:
 - Star Fight (80s Arcade Game w/ UI on nokia screen, Microcontroller, piezzo, & custom controller.) [Software(C)/Hardware]
 - Safety Light (Senior team project, my role as software engineer networking intelligent road lights (embedded along roadlines) to road signs) [Software (C/C++)]
 - Three in a Row (Electronics Lab for Electronic and Computer Engineers independent design w/ 555timers and mosfet logic to implement tic tac toe) [Hardware]
