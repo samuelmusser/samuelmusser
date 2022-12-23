@@ -16,7 +16,10 @@ Relevant Non-professional/Academic Projects 🏗️:
 Relevant Courses 🎒:
 - Algorithm Analysis
 - Cryptography
+- Computer Architecture
+- Digital and Analog Circuit Design
 - Digital Signals and Filtering
+- Discrete Structures
 - Microprocessor System Design
 - VLSI System Design
 
