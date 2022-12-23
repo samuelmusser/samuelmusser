@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @samuelmusser
 - 👀 I’m interested in Star Wars, Movies, Reading, learning new skills, and hanging out with people I love.
 - 🌱 I’m currently learning more about dynamic partitioning systems and the collective integration of services into large scale applications.
-- 💞️ I’m looking to collaborate on fun and innovative software that brings joy to others!
 - 📫 My professional email is sam.musser95@gmail.com
 
 Relevant Non-professional/Academic Projects 🏗️:
