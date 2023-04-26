@@ -2,6 +2,8 @@
 - 👀 I’m interested in Star Wars, Movies, Reading, learning new skills, and hanging out with people I love.
 - 🌱 I’m currently learning more about dynamic partitioning systems and the collective integration of services into large scale applications.
 - 📫 My professional email is sam.musser95@gmail.com
+- 
+
 
 Relevant Non-professional/Academic Projects 🏗️:
 - Star Fight (80s Arcade Game w/ UI on nokia screen, Microcontroller, piezzo, & custom controller.) [Software(C)/Hardware]
@@ -16,9 +18,11 @@ Relevant Courses 🎒:
 - Algorithm Analysis
 - Cryptography
 - Computer Architecture
+- Data Structures featuring C++
 - Digital and Analog Circuit Design
 - Digital Signals and Filtering
 - Discrete Structures
+- Java I-II
 - Microprocessor System Design
 - VLSI System Design
 
